@@ -1,6 +1,6 @@
 # ThreadExample_APK_
 
-An apk app shows how threads working in android 
+An apk app shows how threads work in android 
 
 **** just run it on any android device or emulator 
 
