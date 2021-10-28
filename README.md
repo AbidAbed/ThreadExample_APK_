@@ -8,6 +8,6 @@ An apk app shows how threads working in android
 
 **** the project uses another thread in background to load progressbar
 
-**** you can access directly the apk and install it on your android device just got to : \app\app-build.apk
+**** you can access directly the apk and install it on your android device just got to : \app\app-debug.apk
 
 That's all :)))
